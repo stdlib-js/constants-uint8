@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-uint8",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "8-bit unsigned integer mathematical constants.",
   "license": "Apache-2.0",
   "author": {
