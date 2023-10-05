@@ -35,8 +35,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/constants-uint8-max": "^0.1.0",
-    "@stdlib/constants-uint8-num-bytes": "^0.1.0",
+    "@stdlib/constants-uint8-max": "^0.1.1",
+    "@stdlib/constants-uint8-num-bytes": "^0.1.1",
     "@stdlib/utils-define-read-only-property": "^0.1.1"
   },
   "devDependencies": {
