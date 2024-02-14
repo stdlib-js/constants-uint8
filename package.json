@@ -37,7 +37,8 @@
   "dependencies": {
     "@stdlib/constants-uint8-max": "^0.2.0",
     "@stdlib/constants-uint8-num-bytes": "^0.2.0",
-    "@stdlib/utils-define-read-only-property": "^0.2.0"
+    "@stdlib/utils-define-read-only-property": "^0.2.0",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/math-base-special-pow": "^0.1.0",
