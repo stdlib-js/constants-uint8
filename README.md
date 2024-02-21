@@ -42,13 +42,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-uint8/tags). For example,
+
+```javascript
 import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { MAX, NUM_BYTES } from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8@v0.2.1-deno/mod.js';
+import { MAX, NUM_BYTES } from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8@deno/mod.js';
 ```
 
 #### constants
@@ -85,7 +90,7 @@ var c = constants;
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8@v0.2.1-deno/mod.js';
+import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8@deno/mod.js';
 
 console.log( objectKeys( constants ) );
 ```
