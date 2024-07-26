@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8@deno/mod.js';
+import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8@v0.2.2-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { MAX, NUM_BYTES } from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8@deno/mod.js';
+import { MAX, NUM_BYTES } from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8@v0.2.2-deno/mod.js';
 ```
 
 #### constants
@@ -85,7 +85,7 @@ var c = constants;
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8@deno/mod.js';
+import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8@v0.2.2-deno/mod.js';
 
 console.log( objectKeys( constants ) );
 ```
