@@ -2,7 +2,47 @@
 
 > Package changelog.
 
-<section class="release" id="v0.2.2">
+<section class="release" id="unreleased">
+
+## Unreleased (2024-08-01)
+
+<section class="packages">
+
+### Packages
+
+</section>
+
+<!-- /.packages -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
 
 ## 0.2.2 (2024-07-26)
 
@@ -25,10 +65,6 @@
 </section>
 
 <!-- /.commits -->
-
-</section>
-
-<!-- /.release -->
 
 ## 0.2.1 (2024-02-21)
 
@@ -58,67 +94,15 @@
 
 ### Packages
 
-<section class="package" id="constants-uint8-v0.2.0">
-
-#### [@stdlib/constants/uint8](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint8)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="constants-uint8-max-v0.2.0">
-
-#### [@stdlib/constants/uint8/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint8/max)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="constants-uint8-num-bytes-v0.2.0">
-
-#### [@stdlib/constants/uint8/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint8/num-bytes)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
 </section>
 
 <!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
 ### Commits
 
 <details>
-
--   [`9502ed2`](https://github.com/stdlib-js/stdlib/commit/9502ed27e2853e312c556a48bdd7775095e66709) - **build:** replace tslint directive with eslint equivalent _(by Philipp Burckhardt)_
--   [`46d049b`](https://github.com/stdlib-js/stdlib/commit/46d049b5d38f9ef6e426d6a517ac8925c94d7642) - **build:** replace tslint directive _(by Philipp Burckhardt)_
--   [`d73bbf4`](https://github.com/stdlib-js/stdlib/commit/d73bbf43d222f935085f8ecf7526e5f57835f74e) - **build:** replace lint directives _(by Philipp Burckhardt)_
 
 </details>
 
@@ -154,149 +138,15 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ### Packages
 
-<section class="package" id="constants-uint8-v0.1.0">
-
-#### [@stdlib/constants/uint8](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint8)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
--   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="constants-uint8-max-v0.1.0">
-
-#### [@stdlib/constants/uint8/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint8/max)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
--   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="constants-uint8-num-bytes-v0.1.0">
-
-#### [@stdlib/constants/uint8/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint8/num-bytes)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
--   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
 </section>
 
 <!-- /.packages -->
-
-<section class="breaking-changes">
-
-### BREAKING CHANGES
-
--   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
--   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
 ### Commits
 
 <details>
-
--   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - **feat:** update minimum TypeScript version _(by Philipp Burckhardt)_
--   [`11b2b38`](https://github.com/stdlib-js/stdlib/commit/11b2b3850a34ffa1637b5efed3f83e3211fbb5c4) - **test:** use strictEqual checks _(by Philipp Burckhardt)_
--   [`7ecae4f`](https://github.com/stdlib-js/stdlib/commit/7ecae4f1920da0c72d041b6b9e5c0fc5ec5b3500) - **chore:** resolve lint errors _(by Philipp Burckhardt)_
 
 </details>
 
